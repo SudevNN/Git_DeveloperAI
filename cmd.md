@@ -14,3 +14,8 @@ echo %cd%
 ```sh
 dir
 ```
+
+Удаление фойла в Windows:
+```sh
+del <filename>
+```
