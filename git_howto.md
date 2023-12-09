@@ -1,5 +1,20 @@
 # Подсказки по GIT
 
+Задать имя пользователя
+```sh
+git config --global user.name "Name”
+```
+
+задать адрес электронной почты
+```sh
+git config --global user.email "Routray@1.com”
+```
+
+Проверка статуса репозитория
+```sh
+git status
+```
+
 Команда инициализации репозитория:
 ```sh
 git init
@@ -34,3 +49,9 @@ git checkout <hash>
 ```sh
 git checkout master
 ```
+
+Просмотр изменений до коммита:
+```sh
+git diff
+```
+
