@@ -55,6 +55,11 @@ git checkout <hash>
 git checkout master
 ```
 
+Переход к ветке:
+```sh
+git checkout branch_name
+```
+
 Для создания ветки и автоматического перехода на ветку:
 ```sh
 git checkout -b new_branch_name
