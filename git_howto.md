@@ -55,6 +55,12 @@ git checkout <hash>
 git checkout master
 ```
 
+Переключиться между разными версиями:
+```sh
+git checkout branch_name ц
+```
+
+
 Просмотр изменений до коммита:
 ```sh
 git diff
