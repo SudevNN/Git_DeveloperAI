@@ -107,14 +107,14 @@
 
 Чтобы вставить изображение в текст, достаточно написать следующее:
 
-![Это опциональный текст](https://res.cloudinary.com/practicaldev/image/fetch/s--tl1bwCNQ--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/kc1str971ujjedi3h32i.png)
+![Я люблю MarkDown](https://res.cloudinary.com/practicaldev/image/fetch/s--tl1bwCNQ--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/kc1str971ujjedi3h32i.png)
 
 ## Код
 Если нужно добавить код `function(12);` в обычный текст.
 
 Просто инлайн-код: `print("Hello, World!")`
 
-Код на Python:
+### Код на Python:
 
 ```python
 x = int(input())
@@ -125,7 +125,7 @@ else:
     print(-x)
 ```
 
-Код на JavaScript:
+### Код на JavaScript:
 
 ```javascript
 let greeting1 = 'Father!';
