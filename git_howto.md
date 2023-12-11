@@ -77,7 +77,7 @@ git branch
 
 Создание новой ветки:
 ```sh
-git branch branch_name
+git branch branch_name 
 ```
 
 Удаление ветки:
