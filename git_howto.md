@@ -55,6 +55,11 @@ git checkout <hash>
 git checkout master
 ```
 
+Для создания ветки и автоматического перехода на ветку:
+```sh
+git checkout -b new_branch_name
+```
+
 Просмотр изменений до коммита:
 ```sh
 git diff
@@ -89,3 +94,4 @@ git merge branch_name
 ```sh
 git clone
 ```
+
