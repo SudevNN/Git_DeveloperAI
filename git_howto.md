@@ -55,11 +55,15 @@ git checkout <hash>
 git checkout master
 ```
 
-Переключиться между разными версиями:
+Переключиться между ветками:
 ```sh
-git checkout branch_name ц
+git checkout branch_name
 ```
 
+Для создания ветки и автоматического перехода на ветку:
+```sh
+git checkout -b new_branch_name
+```
 
 Просмотр изменений до коммита:
 ```sh
@@ -95,3 +99,4 @@ git merge branch_name
 ```sh
 git clone
 ```
+
