@@ -100,3 +100,17 @@ git merge branch_name
 git clone
 ```
 
+Добавить удалённый репозиторий и присвоить ему имя (shortname):
+```sh
+git remote add <shortname> <url>
+```
+
+Отправка изменений с ПК в удалённый репозиторий (с ПК в GitHub):
+```sh
+git push -u origin main
+```
+
+Получение изменений из удалённого репозитория (из GitHub на свой ПК):
+```sh
+git pull
+```
